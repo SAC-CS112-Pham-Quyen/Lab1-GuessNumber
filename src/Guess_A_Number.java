@@ -34,3 +34,5 @@ public class Guess_A_Number {
 	}
 
 }
+
+// I am glad you make good use of Google.   Your own initiatives to resolve issue will carry you a long way!
